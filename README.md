@@ -1,2 +1,2 @@
 # Check-Url
-Programa simple en python que verifica si una url de una lista de urls funciona
+Script en Python que lee URLs desde un archivo (urls.txt),y verifca si funciona 
